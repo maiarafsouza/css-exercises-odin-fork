@@ -1,0 +1,19 @@
+.odd-numbered {
+    background-color: rgba(255, 0, 0, 0.263);
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#n_two {
+    color: rgb(31, 70, 147);
+    font-size: 32px;
+}
+
+#n_four {
+    background-color: rgba(0, 128, 0, 0.445);
+    font-size: 24px;
+    font-weight: bold;
+}
